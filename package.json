@@ -1,0 +1,11 @@
+{
+  "name": "myapiqueue",
+  "version": "1.0.0",
+  "description": "queue for market.csgo.tm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "markikz",
+  "license": "ISC"
+}
